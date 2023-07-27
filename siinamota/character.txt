@@ -1,0 +1,8 @@
+name=椎名もた_unofficial
+image=PowapowaP.jpg
+author=*project-siinamota Community*
+voice=ぽわぽわP
+web: https://github.com/project-siinamota/utau
+version：0.0.5
+2 LINES
+which connected two worlds.
